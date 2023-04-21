@@ -1,2 +1,2 @@
-# BA780-Sid
-This is a team project about banking marketing efficacy.
+#Enhancing Marketing Campaign efficacy in the banking Industry
+
